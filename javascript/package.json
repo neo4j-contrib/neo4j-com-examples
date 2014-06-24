@@ -1,0 +1,9 @@
+{
+  "name": "javascript-example",
+  "dependencies": {
+    "neo4j":"*",
+    "streamline": "0.10.12",
+    "http-status": "0.1.7",
+    "request": "2.36.0"
+  }
+}
